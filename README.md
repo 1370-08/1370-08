@@ -9,7 +9,7 @@
 I'm a passionate **junior front end developere]** with experience in **chemical engineering and psychology **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills @   ALX]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: **[something special😁]**
 - 🌍 Languages: **[ENGLISH , AMHARIC,matlab AND CHEMCAD FOR NOW ]**
 - 📫 How to reach me: **[dawitdiy@gmail.com]**
   
