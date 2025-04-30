@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**1370-08/1370-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm dawit! 👋 , but you can call me dave 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me 🚀
+
+I'm a passionate **junior front end developere]** with experience in **chemical engineering and psychology **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[new technologies or skills @   ALX]**
+- 🔭 Working on: **[current projects or side-projects]**
+- 🌍 Languages: **[ENGLISH , AMHARIC,matlab AND CHEMCAD FOR NOW ]**
+- 📫 How to reach me: **[dawitdiy@gmail.com]**
+  
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/dawit-israel-86a93214b/)
+
+
+
+
